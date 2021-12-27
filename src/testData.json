@@ -1,0 +1,49 @@
+{
+    "results": [
+        {
+            "id": 6,
+            "seed": 9645,
+            "price": "8 ETH"
+        },
+        {
+            "id": 1,
+            "seed": 9601,
+            "price": "6.75 ETH"
+        },
+        {
+            "id": 2,
+            "seed": 9475,
+            "price": "6.54 ETH"
+        },
+        {
+            "id": 7,
+            "seed": 9204,
+            "price": "6 ETH"
+        },
+        {
+            "id": 5,
+            "seed": 9093,
+            "price": "6 ETH"
+        },
+        {
+            "id": 4,
+            "seed": 8947,
+            "price": "5 ETH"
+        },
+        {
+            "id": 0,
+            "seed": 8876,
+            "price": "4.99 ETH"
+        },
+        {
+            "id": 8,
+            "seed": 8657,
+            "price": "4.99 ETH"
+        },
+        {
+            "id": 3,
+            "seed": 8557,
+            "price": "4.64 ETH"
+        }
+    ]
+}
